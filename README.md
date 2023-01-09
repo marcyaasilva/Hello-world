@@ -1,2 +1,2 @@
 # Hello world
- My first Python project as a student
+ Meu primeiro projeto em Python.
